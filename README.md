@@ -1,5 +1,5 @@
 # Project-Cryptography
-## All Task have solved , touch with me with email or wechat if you need any help:
+## All Task have solved , touch me with email or wechat if you need any help:
 # email: zhangpch666@163.com
 # wechat: YSYY66
 GT CS 6035: Introduction to Information Security
