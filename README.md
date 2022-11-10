@@ -1,7 +1,7 @@
 # Project-Cryptography
 ## All Task have solved , touch me with email or wechat if you need any help:
-# email: zhangpch666@163.com
-# wechat: YSYY66
+### email: zhangpch666@163.com
+### wechat: YSYY66
 GT CS 6035: Introduction to Information Security
 
 # Task Vigenere Ciphers
